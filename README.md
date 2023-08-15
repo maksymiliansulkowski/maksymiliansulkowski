@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maksymiliansulkowski
 - 👀 I’m interested in Machine  Learning
-- 🌱 I’m currently learning Python, SQL and R
 - 📫 How to reach me https://www.linkedin.com/in/maksymilian-sulkowski-805926236
 
 <!---
