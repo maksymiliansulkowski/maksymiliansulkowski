@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maksymiliansulkowski
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Science
 - 📫 How to reach me https://www.linkedin.com/in/maksymilian-sulkowski-805926236
 
 <!---
